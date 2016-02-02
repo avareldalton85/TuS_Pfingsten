@@ -1,0 +1,63 @@
+<?xml version='1.0'?>  
+<bookingInfo>  
+	<table id='1'>  
+		<status>free</status>  
+	</table>  
+	<table id='2'>  
+		<status>booked</status>  
+	</table>  
+	<table id='3'>  
+		<status>booked</status>  
+	</table>  
+	<table id='4'>  
+		<status>free</status>  
+	</table>  
+	<table id='5'>  
+		<status>booked</status>  
+	</table> 
+	<table id='6'>  
+		<status>free</status>  
+	</table>  
+	<table id='7'>  
+		<status>booked</status>  
+	</table>  
+	<table id='8'>  
+		<status>free</status>  
+	</table>  
+	<table id='9'>  
+		<status>booked</status>  
+	</table>  
+	<table id='10'>  
+		<status>free</status>  
+	</table>    
+	<table id='11'>  
+		<status>free</status>  
+	</table>  
+	<table id='12'>  
+		<status>booked</status>  
+	</table>  
+	<table id='13'>  
+		<status>booked</status>  
+	</table>  
+	<table id='14'>  
+		<status>free</status>  
+	</table>  
+	<table id='15'>  
+		<status>booked</status>  
+	</table> 
+	<table id='16'>  
+		<status>free</status>  
+	</table>  
+	<table id='17'>  
+		<status>booked</status>  
+	</table>  
+	<table id='18'>  
+		<status>free</status>  
+	</table>  
+	<table id='19'>  
+		<status>booked</status>  
+	</table>  
+	<table id='20'>  
+		<status>free</status>  
+	</table>    
+</bookingInfo>
